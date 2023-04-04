@@ -11,4 +11,3 @@ while True:
     else:
         ans += l
     print(f"Case {cnt}: {ans}")
-
